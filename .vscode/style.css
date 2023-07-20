@@ -1,0 +1,49 @@
+body{margin-top: 50px;
+margin-bottom: 40px;
+margin-right: 15px;
+margin-left: 15px;
+background-color: #FFE5CA;}
+
+h1{
+  margin:auto;
+  text-align: center;
+  background-color: #FEA1A1;
+  border-radius: 50px;
+  font-family: lucida handwriting, cursive ;
+text-shadow: 2px 5px 2px #E74646 ;
+color:rgb(243, 245, 234);
+width: 50%;}
+
+p{
+  color:rgb(104, 74, 74);
+  text-indent: 50px;
+  font-size: 18px;}
+
+ .perhitungan{
+    margin: auto;
+    border-radius: 50px;
+    border: 5px solid #ECCDB4;
+    background-color: #FEA1A1;
+    padding: 20px;
+    width: 250px;
+    color: white;
+    line-height: 1.7;
+    text-align: center;}
+
+ #submit{
+  background-color: #E74646;
+  color: white;
+  border: none;
+  border-radius: 10%;
+  width: 120px;
+  cursor: pointer;}
+
+#reset{
+  background-color: #E74646;
+  color: white;
+  border: none;
+  border-radius: 10%;
+  width: 120px;
+  cursor: pointer;}
+
+
